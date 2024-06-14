@@ -18,7 +18,7 @@ namespace Tem_Aqui.Models
 
         public DbSet<Prestadordeservico> Prestadordeservico { get; set; }
 
-        // public DbSet<Estado> Estado { get; set; }
+        public DbSet<Login> Login { get; set; }
 
         // public DbSet<Exame> Exame { get; set; }
 
